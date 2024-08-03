@@ -2,6 +2,9 @@
 
 TOPOLOGY 
 
+![topology](https://github.com/user-attachments/assets/a7e788f3-d328-4498-a4ee-2dc316fd333b)
+
+
 
 Create VPC 
 
